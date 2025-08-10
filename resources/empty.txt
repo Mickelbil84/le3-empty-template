@@ -1,0 +1,1 @@
+This file's sole purpose is to populate the resources directory so that it would appear in the git template :)
